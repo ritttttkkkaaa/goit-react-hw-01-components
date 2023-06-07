@@ -1,0 +1,27 @@
+.statistics {
+    background-color: #b3a98f;
+    margin: auto;
+    width: 800px;
+    border-radius: 6px;
+}
+
+.statlist {
+    width: 800px;
+    margin: auto;
+    display: flex;
+    padding: 0;
+}
+
+
+.label {
+    color: antiquewhite
+}
+
+.percentage {
+    color: antiquewhite
+}
+
+.title {
+    color:antiquewhite;
+    text-align: center;
+}
